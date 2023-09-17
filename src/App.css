@@ -95,10 +95,3 @@ body {
   bottom: 200px;
   right: 40%;
 }
-
-.Roompage {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
